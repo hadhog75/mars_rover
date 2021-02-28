@@ -2,6 +2,8 @@
   "resources": [
     {"id":{"name":"obj_mars_rover","path":"objects/obj_mars_rover/obj_mars_rover.yy",},"order":0,},
     {"id":{"name":"spr_mars_rover","path":"sprites/spr_mars_rover/spr_mars_rover.yy",},"order":0,},
+    {"id":{"name":"spr_sample","path":"sprites/spr_sample/spr_sample.yy",},"order":2,},
+    {"id":{"name":"obj_sample","path":"objects/obj_sample/obj_sample.yy",},"order":1,},
     {"id":{"name":"spr_mars_day","path":"sprites/spr_mars_day/spr_mars_day.yy",},"order":1,},
     {"id":{"name":"rm_mars_day","path":"rooms/rm_mars_day/rm_mars_day.yy",},"order":0,},
   ],
