@@ -1,5 +1,5 @@
-/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
-/// @DnDHash : 44CA25EB
-/// @DnDArgument : "var" "sample"
-global.sample = 0;
+/// @DnDHash : 2B557EAF
+
+__dnd_score = real(0);
