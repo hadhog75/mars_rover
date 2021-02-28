@@ -3,7 +3,7 @@
   "volume": 1.0,
   "parentRoom": null,
   "views": [
-    {"inherit":false,"visible":true,"xview":1800,"yview":1200,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":5,"vborder":5,"hspeed":-1,"vspeed":-1,"objectId":{"name":"obj_mars_rover","path":"objects/obj_mars_rover/obj_mars_rover.yy",},},
+    {"inherit":false,"visible":true,"xview":1800,"yview":1200,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":300,"vborder":300,"hspeed":-1,"vspeed":-1,"objectId":{"name":"obj_mars_rover","path":"objects/obj_mars_rover/obj_mars_rover.yy",},},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
@@ -14,7 +14,9 @@
   ],
   "layers": [
     {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_sample","path":"objects/obj_sample/obj_sample.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2624.0,"y":1440.0,"resourceVersion":"1.0","name":"inst_2ABD9A7F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_mars_rover","path":"objects/obj_mars_rover/obj_mars_rover.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2432.0,"y":1696.0,"resourceVersion":"1.0","name":"inst_62C838E","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2592.0,"y":1632.0,"resourceVersion":"1.0","name":"inst_4789B545","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"spr_mars_day","path":"sprites/spr_mars_day/spr_mars_day.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -23,6 +25,8 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_62C838E","path":"rooms/rm_mars_day/rm_mars_day.yy",},
+    {"name":"inst_2ABD9A7F","path":"rooms/rm_mars_day/rm_mars_day.yy",},
+    {"name":"inst_4789B545","path":"rooms/rm_mars_day/rm_mars_day.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
