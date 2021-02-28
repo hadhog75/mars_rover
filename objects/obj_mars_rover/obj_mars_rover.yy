@@ -27,6 +27,8 @@
     {"isDnD":true,"eventNum":65,"eventType":5,"collisionObjectId":null,"parent":{"name":"obj_mars_rover","path":"objects/obj_mars_rover/obj_mars_rover.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":83,"eventType":5,"collisionObjectId":null,"parent":{"name":"obj_mars_rover","path":"objects/obj_mars_rover/obj_mars_rover.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":68,"eventType":5,"collisionObjectId":null,"parent":{"name":"obj_mars_rover","path":"objects/obj_mars_rover/obj_mars_rover.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":39,"eventType":5,"collisionObjectId":null,"parent":{"name":"obj_mars_rover","path":"objects/obj_mars_rover/obj_mars_rover.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":37,"eventType":5,"collisionObjectId":null,"parent":{"name":"obj_mars_rover","path":"objects/obj_mars_rover/obj_mars_rover.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

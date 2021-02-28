@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Movement.Jump_To_Point
 /// @DnDVersion : 1
-/// @DnDHash : 5090200E
-/// @DnDArgument : "x" "-5"
+/// @DnDHash : 7E83F9BB
+/// @DnDArgument : "x" "-3"
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "0"
 /// @DnDArgument : "y_relative" "1"
-x += -5;
+x += -3;
 y += 0;
