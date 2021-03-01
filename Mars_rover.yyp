@@ -9,6 +9,8 @@
     {"id":{"name":"obj_sample","path":"objects/obj_sample/obj_sample.yy",},"order":1,},
     {"id":{"name":"font_samples","path":"fonts/font_samples/font_samples.yy",},"order":0,},
     {"id":{"name":"spr_mars_day","path":"sprites/spr_mars_day/spr_mars_day.yy",},"order":1,},
+    {"id":{"name":"obj_cycle","path":"objects/obj_cycle/obj_cycle.yy",},"order":1,},
+    {"id":{"name":"spr_solarPanel","path":"sprites/spr_solarPanel/spr_solarPanel.yy",},"order":4,},
     {"id":{"name":"rm_mars_day","path":"rooms/rm_mars_day/rm_mars_day.yy",},"order":0,},
   ],
   "Options": [
